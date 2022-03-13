@@ -1,0 +1,21 @@
+{
+  "name": "sdwc",
+  "version": "1.0.0",
+  "description": "Simple Discord Webhook Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Test\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/err0r522/sdwc.git"
+  },
+  "author": "err0r522",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/err0r522/sdwc/issues"
+  },
+  "homepage": "https://github.com/err0r522/sdwc#readme",
+  "keywords": ["discord", "wrapper"]
+
+}
