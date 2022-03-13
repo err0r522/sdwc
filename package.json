@@ -16,6 +16,15 @@
     "url": "https://github.com/err0r522/sdwc/issues"
   },
   "homepage": "https://github.com/err0r522/sdwc#readme",
-  "keywords": ["discord", "wrapper"]
-
+  "keywords": [
+    "discord",
+    "wrapper",
+    "client",
+    "api",
+    "webhook",
+    "node"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
 }
