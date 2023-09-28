@@ -1,5 +1,5 @@
 # SDWC
-## Simple Discord Webhook Client
+## A simple Discord Webhook Client
 
 <br>
 
@@ -19,7 +19,7 @@ new Client({url: "https://discord.com/api/webhooks/webhook_id/webhook_token"})
 new Client({id: "webhook id", token: "webhook token"})
 ```
 
-### Getting webhook's name
+### Getting your webhook's name
 
 ```javascript
 const client = require("sdwc")({id: "webhook id", token: "webhook token"});
