@@ -1,6 +1,6 @@
 {
   "name": "sdwc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Discord Webhook Client",
   "main": "index.js",
   "scripts": {
